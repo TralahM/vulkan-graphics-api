@@ -1,0 +1,3 @@
+/home/african/Desktop/Games/vulkan-graphics-api/build/CMakeFiles/rebuild_cache.dir
+/home/african/Desktop/Games/vulkan-graphics-api/build/CMakeFiles/VulkanTest.dir
+/home/african/Desktop/Games/vulkan-graphics-api/build/CMakeFiles/edit_cache.dir
