@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/home/african/Desktop/Games/vulkan-graphics-api/\$$VULKAN_SDK/include" 
+CXX_INCLUDES = -I/home/african/vulkan/1.2.135.0/x86_64/include 
 

@@ -8,4 +8,9 @@ namespace VulkanCookbook {
 #define DEVICE_LEVEL_VULKAN_FUNCTION_FROM_EXTENSION( name, extension  ) PFN_##name name;
 #include "ListOfVulkanFunctions.inl"
 } // namespace VulkanCookbook
+int main(void)
+{
+
+    return 0;
+}
 
