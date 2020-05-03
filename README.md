@@ -19,7 +19,7 @@
 
 # Documentation
 
-[Read the Docs](https://vulkan-graphics-api.readthedocs.io)
+<!-- [Read the Docs](https://vulkan-graphics-api.readthedocs.io) -->
 # Dependencies
 
 # How to Install
@@ -27,9 +27,12 @@
 
 ## Building from Source for Developers
 
-```Bash
-git clone https://github.com/TralahM/vulkan-graphics-api.git
-cd vulkan-graphics-api
+```console
+$ git clone https://github.com/TralahM/vulkan-graphics-api.git
+$ cd vulkan-graphics-api
+$ cd build
+$ cmake ..
+$ make
 ```
 
 # Contributing
